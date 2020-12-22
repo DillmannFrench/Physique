@@ -8,3 +8,6 @@ Ce dépôt permet de discuter des cours de physique dans lequel nous utilisons l
 
 - Les lois de Snell-Decartes pour la reflexion
 - Une Activité numérique (créer un son et l'analyser)
+
+### Première générale et technologique (DNL)
+- Etude d'une distribution de champ Electrique et Magnétique
