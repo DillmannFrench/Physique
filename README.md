@@ -11,3 +11,6 @@ Ce dépôt permet de discuter des cours de physique dans lequel nous utilisons l
 
 ### Première générale et technologique (DNL)
 - Etude d'une distribution de champ Electrique et Magnétique
+
+### Terminale
+- Etude de la conductivitité thermique des métaux
